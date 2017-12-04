@@ -1,0 +1,9 @@
+li.code{
+    font-family: Consolas, 'Curier New', serif;
+    list-style: none;
+    margin-bottom: 4px;
+    padding-left: 20px;
+}
+li.code:before{
+    content: '▌';
+}
